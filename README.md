@@ -1,4 +1,5 @@
 Shift Care – recommended testing process<br>
+Link to google drive: [Google Drive](https://drive.google.com/drive/folders/13e43J8viCah0rvO-ksIcL9Au1hPTTqk0?usp=sharing) or direct link to the [APK](https://drive.google.com/file/d/1LX36HXN6Ru2nLOsBIeasbcX2lwNIJCGN/view?usp=sharing)<br>
 Note: These are some known bugs that we will work to fix.
 -	If at any point the login screen flashes on the screen, ignore it, your page will be loading.
 -	The ‘Home page’ will display the loading spinner when there are no shifts to display. 
