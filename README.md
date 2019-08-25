@@ -11,10 +11,8 @@ Note: These are some known bugs that we will work to fix.
 -	Nurse Home page hasn’t been converted to allow the user to change the number and filter the type of shifts displayed.
 
 Instructions:
-1.	Open the ShiftCare App
-
-**Charge Nurse**
-
+1.	Open the ShiftCare App<br>
+**Charge Nurse**<br>
 2.	Select ‘Charge Nurse Sign Up’ and enter your details. Then Select ‘Create Account’
 3.	You will be redirected to the ‘Home Page’. Here the charge nurse can view the upcoming shifts for their ward and manage those shifts.
 4.	Select ‘Profile’ to see and edit your profile information.
@@ -27,10 +25,8 @@ a.	Press the plus (+) button on the top right to add a new shift to the ward.
 b.	Here you can select the start and end time for the shift, as well as choose the number of nurses the shift requires and the individual nurses for the shift. Then press ‘Add shift’. Add a couple more for good measure.
 7.	Select ‘Shifts’ to see a calendar view of the shifts for the ward.
 8.	Select ‘Home’ to see the upcoming shifts. (come back here after you log in as a nurse and drop a shift). Here the charge nurse can select the number and filter the upcoming shifts.
-9.	Select ‘profile’, scroll to the bottom and press the ‘logout’ button.
-
-**Nurse**
-
+9.	Select ‘profile’, scroll to the bottom and press the ‘logout’ button.<br>
+**Nurse**<br>
 10.	Enter your email for the nurse you invited and the password you set from the confirmation email and press ‘Log in’.
 11.	As this is your first time logging in you will be prompted to set your details, do this and then press ‘Create Account’.
 12.	You will be directed to the ‘Home page’ here nurses can view shifts that require nurses and can choose to apply for those shifts.
@@ -42,10 +38,8 @@ c.	After the popup appears, press ‘Drop’. Selecting the day (or reloading th
 15.	Select ‘Home’ again and you should see the shift you just dropped appear. 
 a.	Ideally you should log out and log in with a different nurse account before you do the next step but it is not absolutely necessary. 
 b.	Press ‘Accept a Shift’ to apply for that shift. Charge nurses will be able to see that you have applied. 
-16.	Logout and log back in to the charge Nurse account.
-
-**Charge Nurse**
-
+16.	Logout and log back in to the charge Nurse account.<br>
+**Charge Nurse**<br>
 17.	After logging in with the original charge nurse account you should see on the ‘Home’ page that a shift is highlighted in red (change the filter to ‘dropped’ or ‘all’ if you can’t see it). 
 a.	Press on the red shift and you should see a list of nurses that have applied for the shift. (log into more nurse accounts and apply for the shift to get more nurses in the shift).
 b.	The last of this functionality is currently under construction however this should give a good idea of how a flow of activities should be carried out.
