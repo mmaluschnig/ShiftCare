@@ -1,9 +1,7 @@
 Shift Care – recommended testing process<br>
 Link to [Google Drive](https://drive.google.com/drive/folders/13e43J8viCah0rvO-ksIcL9Au1hPTTqk0?usp=sharing) where you can find the APK and instructions of use or direct link to the [Latest APK](https://drive.google.com/file/d/1ZZ3r3PE0wPoFYHDsyCwKp3hKrkE5zkh6/view?usp=sharing)<br>
 Note: These are some known bugs that we will work to fix.
--	The ‘Home page’ will display the loading spinner when there are no shifts to display. 
 -	Some actions will happen in the background, if the app looks like it hasn’t done what you want give it a few seconds. We are currently working on giving visual feedback to the user.
--	We are currently working on adding the ability to manage nurses in their ward by tapping on the nurse.
 -	You cannot currently change the name of your ward
 -	You currently cannot edit a shift once it has been made
 
