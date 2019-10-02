@@ -1,5 +1,5 @@
 Shift Care – recommended testing process<br>
-Link to [Google Drive](https://drive.google.com/drive/folders/13e43J8viCah0rvO-ksIcL9Au1hPTTqk0?usp=sharing) where you can find the APK and instructions of use or direct link to the [Latest APK](https://drive.google.com/file/d/1Zl_KiMoKPqRhcSozLf38Cuwwq_F5h5if/view?usp=sharing)<br>
+Link to [Google Drive](https://drive.google.com/drive/folders/13e43J8viCah0rvO-ksIcL9Au1hPTTqk0?usp=sharing) where you can find the APK and instructions of use or direct link to the [Latest APK](https://drive.google.com/file/d/1vPvm-f0NwGKBKPP5qEfleFByEs1hJGud/view?usp=sharing)<br>
 Note: These are some known bugs that we will work to fix.
 -	Some actions will happen in the background, if the app looks like it hasn’t done what you want give it a few seconds. We are currently working on giving visual feedback to the user.
 -	You cannot currently change the name of your ward
